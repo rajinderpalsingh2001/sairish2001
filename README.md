@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on Full Stack Web Development
 - 🌱 I’m currently learning REST API in Django
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
 - 💬 Ask me about innovation
 - 📫 How to reach me: sairish2001@gmail.com
 
