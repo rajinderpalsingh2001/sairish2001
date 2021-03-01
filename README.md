@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi 👋 Rajinderpal Singh here!
 
-<!--
-**sairish2001/sairish2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Full Stack Web Development
+- 🌱 I’m currently learning REST API in Django
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with 
+- 💬 Ask me about innovation
+- 📫 How to reach me: sairish2001@gmail.com
+
+---
+
+#### I Love to
+
+- Contribute to Open Source
+- Development
+- Learn & Apply new Technologies
+
+---
+
+![My stats](https://github-readme-stats.vercel.app/api?username=sairish2001)
+
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairish2001&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sairish2001"/></td></tr></table>
