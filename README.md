@@ -1,4 +1,4 @@
-# Hi 👋 Rajinderpal Singh here!
+# Hi there👋, Rajinderpal Singh is here!
 
 - 🔭 I’m currently working on Full Stack Web Development
 - 🌱 I’m currently learning REST API in Django
