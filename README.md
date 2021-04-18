@@ -7,11 +7,11 @@
 
 ---
 
-#### I Love to
+#### I Love
 
-- Contribute to Open Source
+- to Contribute to Open Source
 - Development
-- Learn & Apply new Technologies
+- to Learn & Apply new Technologies
 
 ---
 
