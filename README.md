@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning REST API in Django
 - 💬 Ask me about innovation
 - 📫 How to reach me: sairish2001@gmail.com
+- [twitter](https://twitter.com/sairish2001)
 
 ---
 
